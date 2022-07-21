@@ -27,7 +27,7 @@ def usuarios(nome_usuario):
 #colocar o site no ar
 if __name__ == '__main__':
     app.run(debug=True) #adicionar 'debug=True' no app.run para poder
-    # fazer as alterações do site sem ter que recompilr o codigo 
+    # fazer as alterações do site sem ter que recompilar o codigo 
     
 
 #servidor do Heroku
